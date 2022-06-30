@@ -85,4 +85,8 @@ class Computer{
 
 * 링크 참조 시 사용
 
-Lint:[naver][https://www.naver.com]
+Naver Link:[naver][https://www.naver.com]
+
+* 자동 링크
+
+Naver Homepage: <https://naver.com>
