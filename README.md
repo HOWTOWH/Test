@@ -48,9 +48,10 @@
 
 * "```언어" 적으면 그 언어의 문법 강조 가능
 
-```java
+
 <pre>
 <code>
+```java
 class Computer{
 	private String Name;
 	private String Number;
@@ -66,7 +67,7 @@ class Computer{
 </pre>
 
 
-## Draw Line
+# 5. Draw Line
 
 * 페이지 나누기 용도로 사용
 
@@ -81,11 +82,15 @@ class Computer{
 "------------"
 ------------
 
-## Link
+# 6. Link
 
-* 링크 참조 시 사용
+* 참조 링크
 
-Naver Link:[naver][https://www.naver.com]
+[Naverlink]: https://www.naver.co.kr
+
+* 외부 링크
+
+[naver](https://www.naver.com "네이버 드가자~")
 
 * 자동 링크
 
