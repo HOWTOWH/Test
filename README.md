@@ -38,6 +38,8 @@
 꺆꺆꺆꺆꺆꺆꺆꺆꺆꺆
 
 ## <Source Code>
+
+```java
 <pre>
 <code>
 class Computer{
