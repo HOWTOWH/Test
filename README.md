@@ -117,3 +117,8 @@ __두껍게__
 ~~취소선~~
 
 # 8. 이미지
+
+![Street](sangsu.jpg "sangsu")
+
+Inline-style:
+![alt text](https://youtu.be/gUyCa6errBc "i love sangsu")
