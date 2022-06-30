@@ -48,9 +48,6 @@
 
 * "`""`""`언어" 적으면 그 언어의 문법 강조 가능
 
-
-<pre>
-<code>
 ```java
 class Computer{
 	private String Name;
@@ -63,8 +60,6 @@ class Computer{
 		
 }
 ```
-</code>
-</pre>
 
 
 # 5. Draw Line
