@@ -127,6 +127,8 @@ __두껍게__
 
 # 9. Footnotes
 
+* 링크 주석 달기
+
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
@@ -150,4 +152,5 @@ This footnote also has been made with a different syntax using 4 spaces for new 
 
 * 줄 바꿈(공백 2번 혹은 "<"br">" 사용)
 
-줄바꿈은이렇게하는거지 줄바꿈은이렇게하는거지  줄바꿈은이렇게하는거지줄바꿈은이렇게하는거지
+줄바꿈은이렇게하는거지 줄바꿈은이렇게하는거지  
+줄바꿈은이렇게하는거지줄바꿈은이렇게하는거지
