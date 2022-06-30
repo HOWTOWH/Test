@@ -136,8 +136,7 @@ You can also use words, to fit your writing style more closely[^3].
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.
 This allows you to have a footnote with multiple lines.
-[^3]:
-Named footnotes will still render with numbers instead of the text but allow easier identification and linking.
+[^3]:Named footnotes will still render with numbers instead of the text but allow easier identification and linking.
 This footnote also has been made with a different syntax using 4 spaces for new lines.
 
 # 10. Table
@@ -148,3 +147,7 @@ This footnote also has been made with a different syntax using 4 spaces for new 
 | `relative` | 요소 자신을 기준으로 배치 | |
 | `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 | |
 | `fixed` | 브라우저 창을 기준으로 배치 | |
+
+* 줄 바꿈(공백 2번 혹은 "<"br">" 사용)
+
+줄바꿈은이렇게하는거지 줄바꿈은이렇게하는거지  줄바꿈은이렇게하는거지줄바꿈은이렇게하는거지
