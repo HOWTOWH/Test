@@ -86,6 +86,7 @@ class Computer{
 
 * 참조 링크
 
+Link: [Naver][Naverlink]
 [Naverlink]: https://www.naver.co.kr
 
 * 외부 링크
@@ -94,4 +95,19 @@ class Computer{
 
 * 자동 링크
 
-Naver Homepage: <https://naver.com>
+Naver Homepage: <https://www.naver.com>
+
+# 7. Emphasis
+
+* 텍스트를 강조할 때 사용하는 문법
+
+"*이텔릭체* 혹은 _이텔릭체_"
+*이텔릭체*
+_이텔릭체_
+
+"**두껍게** 혹은 __두껍게__"
+**두껍게**
+__두껍게__
+
+"~~취소선~~"
+~~취소선~~
