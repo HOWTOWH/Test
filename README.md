@@ -5,7 +5,6 @@
 
 --------------------------------
 # 1. Header
-=========
 # 1.1. 집
 ## 2.1 가
 ### 3.1 고
@@ -14,16 +13,16 @@
 ###### 6.1 ㅠ
 
 # 2. BlockQue
-==========
 > One
 >	> Two
 >	>	>Three
 
 # 3. List
-======
 1. First
 * First-First
-+ First-Second
-- First-Third
+	+ First-Second
+		- First-Third
 2. Second
 3. Third
+
+# 4. Code
