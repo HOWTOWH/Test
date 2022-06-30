@@ -36,3 +36,18 @@
 	꺆꺆꺆꺆꺆꺆꺆꺆꺆꺆
 
 꺆꺆꺆꺆꺆꺆꺆꺆꺆꺆
+
+<pre>
+<code>
+class Computer{
+	private String Name;
+	private String Number;
+	
+	Computer(String Name, String Number){
+		this.Name = Name;
+		this.Number = Number;
+	}
+		
+}
+</code>
+</pre>
